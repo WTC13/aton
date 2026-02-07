@@ -1,31 +1,30 @@
 # ☀️ A.T.O.N. — Axioma do Triunfo e Ordem Nobre
+> **Propriedade Exclusiva de: Wendell Timóteo**
 
-> **"Do fôlego que faz soar o metal à mente que processa o bit: Tudo para o alto, tudo para o Reino."**
+---
+
+## 🎯 O Objetivo Real
+Este sistema é o motor da minha ascensão. O ATON foi criado para ser o braço direito na minha jornada para **me tornar um programador de elite e deixar um legado gigante na história da humanidade.** Ele existe para filtrar o ruído, potencializar meu foco intenso e garantir que cada hora de estudo e código seja um passo em direção ao meu sonho.
+
+## 🏛️ A Estrutura do Sistema (O Tripé)
+O ATON opera sob três diretrizes inegociáveis, baseadas na minha comemoração:
+1.  **[PEITO] Coração:** O sistema deve servir aos meus valores cristãos e à minha essência como músico.
+2.  **[TESTA] Cérebro:** O sistema deve priorizar a lógica matemática, a estratégia de jogo e a eficiência técnica.
+3.  **[CÉU] Deus:** O sistema é uma ferramenta de mordomia. Tudo aqui é feito para a glória de Deus, com a intimidade de Habacuque.
+
+## ⚔️ Regras de Operação do Wendell
+* **Foco Intenso:** Quando o ATON está ativo, a distração é o inimigo. É o momento de "Pico de Motivação".
+* **O Bom Combate:** Se o código está difícil, eu persisto. Como Rocky, eu não paro até o gongo soar.
+* **Excelência de Atleta:** Reflexos de goleiro e precisão de mesatenista aplicados ao teclado.
+
+## 🛠️ Módulos de Evolução (Minha Estrada)
+- [ ] **Módulo Alpha:** Domínio da Lógica e Algoritmos.
+- [ ] **Módulo Beta:** Construção de Projetos de Alto Impacto.
+- [ ] **Módulo Gamma:** Contribuição para a História da Tecnologia.
 
 ---
 
-## 🏛️ Sobre o Projeto
-O **ATON** é mais do que um assistente pessoal; é um ecossistema de produtividade e inteligência desenvolvido por **Wendell Timóteo**. Inspirado na filosofia pré-socrática e na precisão matemática, o projeto visa centralizar o foco, a gestão de metas e a automação de tarefas sob uma ética cristã e resiliente.
+## 📜 Lembrete Diário
+*"Escreve a visão e torna-a bem legível sobre tábuas, para que a possa ler quem passa correndo."* — **Habacuque 2:2**
 
-## 🧬 O Tripé da Execução
-Este projeto é regido pela minha comemoração de vida, refletida em cada linha de código:
-* **❤️ Coração (Peito):** Paixão pela música (Trombone) e valores da CCB.
-* **🧠 Cérebro (Testa):** Lógica matemática, filosofia e estratégia de atleta.
-* **☁️ Céu (Deus):** Reconhecimento de que todo talento e propósito vêm do Criador.
-
-## 🛠️ Tecnologias e Inspirações
-* **Programação:** [Inserir aqui, ex: Python / Node.js]
-* **Filosofia:** Logística Pré-Socrática (A busca pela Arché).
-* **Estética:** Inspirado na cultura de Wakanda (Pantera Negra) e na energia dos HotWheels.
-* **Resiliência:** Mentalidade Rocky Balboa — *não é sobre o quão forte você bate, mas o quanto aguenta apanhar e seguir em frente.*
-
-## 📖 Referência Espiritual
-> *"Ninguém despreze a tua mocidade; mas sê o exemplo dos fiéis, na palavra, no trato, no amor, no espírito, na fé, na pureza."* > — **1 Timóteo 4:12**
-
-Como o profeta **Habacuque**, este projeto foi desenhado para ser uma conversa íntima com o propósito, escrita de forma clara para que "possa ler até quem passa correndo" (Habacuque 2:2).
-
-## 🚀 Objetivo
-Impactar a história da humanidade através da tecnologia, provando que a ciência e a fé, quando unidas por um foco intenso, podem alcançar o impossível.
-
----
-**Desenvolvido com honra por Wendell Timóteo.**
+**ATON: O sol não pede licença para brilhar. Programe com fôlego, vença com fé.**
